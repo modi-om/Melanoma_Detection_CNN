@@ -1,6 +1,6 @@
 # Melanoma-Detection-using-using-custom-cnn
 
-> This project uses a custom CNN to detect melanoma in images of skin lesions among 10 classes. The model predicts with an 80% accuracy.
+> This project uses a custom CNN to detect melanoma in images of skin lesions among 10 classes. The model predicts with an 88% accuracy.
 
 ## Table of Contents
 - [General Information](#general-information)
